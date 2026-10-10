@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gaurav-nm/leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/gaurav-nm/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/gaurav-nm/leetcode/tree/master/0075-sort-colors) |
 ## Divide and Conquer
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gaurav-nm/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/gaurav-nm/leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gaurav-nm/leetcode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/gaurav-nm/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
