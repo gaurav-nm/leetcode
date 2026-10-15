@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gaurav-nm/leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/gaurav-nm/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gaurav-nm/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/gaurav-nm/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/gaurav-nm/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gaurav-nm/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/gaurav-nm/leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/gaurav-nm/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav-nm/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/gaurav-nm/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/gaurav-nm/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/gaurav-nm/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -72,4 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gaurav-nm/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/gaurav-nm/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gaurav-nm/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gaurav-nm/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
