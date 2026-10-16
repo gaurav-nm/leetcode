@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/gaurav-nm/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gaurav-nm/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gaurav-nm/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/gaurav-nm/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/gaurav-nm/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gaurav-nm/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/gaurav-nm/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gaurav-nm/leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/gaurav-nm/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
